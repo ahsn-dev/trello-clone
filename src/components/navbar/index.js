@@ -26,7 +26,7 @@ const navbar = () => {
         type: "date",
         id: "date",
         className:
-          "px-2 py-2 w-96 rounded border border-solid border-slate-200",
+          "px-2 py-2 w-96 rounded border border-solid border-slate-200 text-slate-200",
       }),
       El({
         element: "button",
